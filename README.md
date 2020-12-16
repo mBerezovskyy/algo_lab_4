@@ -1,1 +1,1 @@
-# algo_lab_4
+task can be found in attached in wchain.pdf file
